@@ -8,4 +8,4 @@
     - Monthly cost calculated using the associated LADWP rates
     - Highest kW demand for each time of use
 
-View the pipeline and plotly graphs <a href = https://nbviewer.org/github/GreenEconoME/Energy-360-Pipeline/blob/main/Energy%20360%20Pipeline.ipynb target = "_blank">here.</a>
+View the pipeline and plotly graphs <a href = https://nbviewer.org/github/GreenEconoME/Energy-360-Pipeline/blob/main/Energy%20360%20Pipeline.ipynb>here.</a>
